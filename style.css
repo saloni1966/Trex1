@@ -1,0 +1,10 @@
+html, body {
+  margin-left: 200px;
+  margin-top: 50px;
+  padding: 0;
+ 
+}
+canvas {
+  display: block;
+  border: 2px solid chartreuse;
+}
